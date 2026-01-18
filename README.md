@@ -4,11 +4,12 @@
 
 
 | Assignment | Status | PDF | Notebook |
-|-----------|--------|-----|----------| 
-| Assignment 1 | <span style="background-color:#FFF3CD; color:#856404; padding:4px 10px; border-radius:6px; font-weight:600;">Ongoing</span> | [PDF](#) | [Notebook](#) |
-| Assignment 1 | <span style="background-color:#E2E3E5; color:#383D41; padding:4px 10px; border-radius:6px;font-weight:600;">Not Started</span> | [PDF](#) | [Notebook](#) |
-| Assignment 1 | <span style="background-color:#E2E3E5; color:#383D41; padding:4px 10px; border-radius:6px;font-weight:600;">Not Started</span> | [PDF](#) | [Notebook](#) |
-| Assignment 1 | <span style="background-color:#E2E3E5; color:#383D41; padding:4px 10px; border-radius:6px;font-weight:600;">Not Started</span> | [PDF](#) | [Notebook](#) |
+|-----------|--------|-----|----------|
+| Assignment 1 | ![Ongoing](https://img.shields.io/badge/%20Ongoing-yellow?style=flat) | [PDF](#) | [Notebook](#) |
+| Assignment 2 | ![Not Started](https://img.shields.io/badge/%20Not%20Started-lightgrey?style=flat) | [PDF](#) | [Notebook](#) |
+| Assignment 3 | ![Not Started](https://img.shields.io/badge/%20Not%20Started-lightgrey?style=flat) | [PDF](#) | [Notebook](#) |
+| Assignment 4 | ![Not Started](https://img.shields.io/badge/%20Not%20Started-lightgrey?style=flat) | [PDF](#) | [Notebook](#) |
+
 
 
 # 📘 Assignment 1
