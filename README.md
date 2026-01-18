@@ -5,7 +5,7 @@
 
 | Assignment | Status | PDF | Notebook |
 |-----------|--------|-----|----------|
-| Assignment 1 | ![Ongoing](https://img.shields.io/badge/%20Ongoing-yellow?style=flat) | [PDF](#) | [Notebook](#) |
+| [Assignment 1](#-assignment-1) | ![Ongoing](https://img.shields.io/badge/%20Ongoing-yellow?style=flat) | [PDF](#) | [Notebook](#) |
 | Assignment 2 | ![Not Started](https://img.shields.io/badge/%20Not%20Started-lightgrey?style=flat) | [PDF](#) | [Notebook](#) |
 | Assignment 3 | ![Not Started](https://img.shields.io/badge/%20Not%20Started-lightgrey?style=flat) | [PDF](#) | [Notebook](#) |
 | Assignment 4 | ![Not Started](https://img.shields.io/badge/%20Not%20Started-lightgrey?style=flat) | [PDF](#) | [Notebook](#) |
